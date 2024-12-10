@@ -1,3 +1,4 @@
 # Quizz
 Det är ett simpelt quizz med 2 frågor
-Komprimera de två filerna
+
+Ladda ned och komprimera de två filerna :)
